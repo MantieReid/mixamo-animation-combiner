@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mixamo-animation-combiner/precache-manifest.b71527bd68c7174ca9523585d66c412a.js"
+  "/mixamo-animation-combiner/precache-manifest.c9b5da7a5fe09a5407bc7562ca900446.js"
 );
 
 self.addEventListener('message', (event) => {
