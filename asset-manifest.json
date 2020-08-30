@@ -1,25 +1,26 @@
 {
   "files": {
     "main.css": "/mixamo-animation-combiner/static/css/main.30c9419f.chunk.css",
-    "main.js": "/mixamo-animation-combiner/static/js/main.905e73eb.chunk.js",
-    "main.js.map": "/mixamo-animation-combiner/static/js/main.905e73eb.chunk.js.map",
+    "main.js": "/mixamo-animation-combiner/static/js/main.3e30cde6.chunk.js",
+    "main.js.map": "/mixamo-animation-combiner/static/js/main.3e30cde6.chunk.js.map",
     "runtime-main.js": "/mixamo-animation-combiner/static/js/runtime-main.b9e5b861.js",
     "runtime-main.js.map": "/mixamo-animation-combiner/static/js/runtime-main.b9e5b861.js.map",
     "static/css/2.9dff4bae.chunk.css": "/mixamo-animation-combiner/static/css/2.9dff4bae.chunk.css",
-    "static/js/2.9d551b8f.chunk.js": "/mixamo-animation-combiner/static/js/2.9d551b8f.chunk.js",
-    "static/js/2.9d551b8f.chunk.js.map": "/mixamo-animation-combiner/static/js/2.9d551b8f.chunk.js.map",
+    "static/js/2.cfa70458.chunk.js": "/mixamo-animation-combiner/static/js/2.cfa70458.chunk.js",
+    "static/js/2.cfa70458.chunk.js.map": "/mixamo-animation-combiner/static/js/2.cfa70458.chunk.js.map",
     "index.html": "/mixamo-animation-combiner/index.html",
-    "precache-manifest.c9b5da7a5fe09a5407bc7562ca900446.js": "/mixamo-animation-combiner/precache-manifest.c9b5da7a5fe09a5407bc7562ca900446.js",
+    "precache-manifest.91fcca9aa6881570eaf6166b3248e65d.js": "/mixamo-animation-combiner/precache-manifest.91fcca9aa6881570eaf6166b3248e65d.js",
     "service-worker.js": "/mixamo-animation-combiner/service-worker.js",
     "static/css/2.9dff4bae.chunk.css.map": "/mixamo-animation-combiner/static/css/2.9dff4bae.chunk.css.map",
     "static/css/main.30c9419f.chunk.css.map": "/mixamo-animation-combiner/static/css/main.30c9419f.chunk.css.map",
-    "static/js/2.9d551b8f.chunk.js.LICENSE.txt": "/mixamo-animation-combiner/static/js/2.9d551b8f.chunk.js.LICENSE.txt"
+    "static/js/2.cfa70458.chunk.js.LICENSE.txt": "/mixamo-animation-combiner/static/js/2.cfa70458.chunk.js.LICENSE.txt",
+    "static/media/default.glb": "/mixamo-animation-combiner/static/media/default.d39ce2af.glb"
   },
   "entrypoints": [
     "static/js/runtime-main.b9e5b861.js",
     "static/css/2.9dff4bae.chunk.css",
-    "static/js/2.9d551b8f.chunk.js",
+    "static/js/2.cfa70458.chunk.js",
     "static/css/main.30c9419f.chunk.css",
-    "static/js/main.905e73eb.chunk.js"
+    "static/js/main.3e30cde6.chunk.js"
   ]
 }
